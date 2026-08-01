@@ -1,8 +1,28 @@
 aid: zag-bio
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/zag-bio.png
 name: Zag Bio
-description: Zag Bio is a company surfaced as a portfolio company of lightspeed-venture-partners and added
-  to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment
-  pipeline.
+description: >-
+  Zag Bio is a clinical-stage biotechnology company developing thymus-targeted
+  therapies for autoimmune diseases. The company engineers bifunctional
+  antibodies that deliver self-antigens to antigen-presenting cells in the
+  thymus, harnessing the body's natural process of central immune tolerance so
+  developing immune cells learn to recognize, tolerate, and protect the body's
+  own tissues. Its pipeline includes ZAG-101, a candidate for Type 1 Diabetes.
+  Founded and incubated by Polaris Partners, Zag Bio launched publicly in
+  October 2025 with an $80M Series A. It is tracked in the API Evangelist
+  network as a Lightspeed Venture Partners portfolio company; as a therapeutics
+  developer it publishes no public API or developer platform at this time.
 url: https://raw.githubusercontent.com/api-evangelist/zag-bio/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -12,12 +32,36 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
 tags:
 - Company
+- Biotechnology
+- Pharmaceuticals
+- Autoimmune
+- Immunology
+- Therapeutics
+- Drug Development
+- Healthcare
+- Venture Backed
 apis: []
+common:
+- type: Website
+  url: https://zagbio.com/
+- type: Blog
+  url: https://zagbio.com/news-resources/
+- type: Support
+  url: https://zagbio.com/contact/contact-us/
+- type: TermsOfService
+  url: https://zagbio.com/terms-of-use
+- type: PrivacyPolicy
+  url: https://zagbio.com/privacy-policy/
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-21'
+  status: minimal
+  artifacts_added: 0
+  pass: local-v1
