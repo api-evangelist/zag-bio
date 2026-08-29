@@ -35,6 +35,9 @@ description: >-
   network as a Lightspeed Venture Partners portfolio company; as a therapeutics
   developer it publishes no public API or developer platform at this time.
 url: https://raw.githubusercontent.com/api-evangelist/zag-bio/refs/heads/main/apis.yml
+x-api-posture: no-product-api
+x-api-posture-basis: observed
+x-api-posture-note: "It is tracked in the API Evangelist network as a Lightspeed Venture Partners portfolio company; as a therapeutics developer it publishes no public API or developer platform at this time."
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
