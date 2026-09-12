@@ -2,20 +2,20 @@
   "repo": "zag-bio",
   "feeds": [
     {
-      "source": "https://zagbio.com/kalvista/feed/",
-      "feed_url": "https://zagbio.com/kalvista/feed/",
-      "title": "",
-      "saved": 0,
-      "method": "feed"
-    },
-    {
       "source": "https://zagbio.com/",
       "feed_url": "https://zagbio.com/kalvista/feed/",
       "title": "",
       "saved": 0,
       "method": "discovered"
+    },
+    {
+      "source": "https://zagbio.com/kalvista/feed/",
+      "feed_url": "https://zagbio.com/kalvista/feed/",
+      "title": "",
+      "saved": 0,
+      "method": "feed"
     }
   ],
   "post_count": 0,
-  "fetched": "2026-08-30T22:33:40Z"
+  "fetched": "2026-09-06T19:17:18Z"
 }
