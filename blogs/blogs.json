@@ -9,6 +9,13 @@
       "method": "discovered"
     },
     {
+      "source": "https://zagbio.com/news-resources/feed/",
+      "feed_url": "https://zagbio.com/news-resources/feed/",
+      "title": "",
+      "saved": 0,
+      "method": "feed"
+    },
+    {
       "source": "https://zagbio.com/kalvista/feed/",
       "feed_url": "https://zagbio.com/kalvista/feed/",
       "title": "",
@@ -17,5 +24,5 @@
     }
   ],
   "post_count": 0,
-  "fetched": "2026-10-10T13:15:00Z"
+  "fetched": "2026-10-17T14:53:57Z"
 }
